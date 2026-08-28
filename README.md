@@ -39,7 +39,7 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 ## 📁 Archivos del Repositorio
 * 📊 `1-Planificación de la Demanda.xlsb` — Modelos de pronóstico, MAPE, WAPE, BIAS.
 * 📦 `2-Gestión de Inventario.xlsb` — Clasificación ABC-XYZ, Stock de Seguridad, ROP y análisis de sobrestock/quiebres.
-* 🚚 `3-Optimización de Transporte.xlsb` — Modelo de optimización lineal en Solver para asignación de flujos y capacidades de CDs.
+* 🚚 `3-Optimización del Transporte.xlsb` — Modelo de optimización lineal en Solver para asignación de flujos y capacidades de CDs.
 * 📄 `Informe_Ejecutivo_SOP.pdf` — Reporte ejecutivo consolidado para toma de decisiones.
 
 ---
