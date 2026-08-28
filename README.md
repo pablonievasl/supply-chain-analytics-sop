@@ -20,10 +20,26 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 
 ---
 
+## 📊 Dashboards
+
+### 📈 Planificación de la Demanda
+
+<img width="1870" height="729" alt="image" src="https://github.com/user-attachments/assets/64544071-5344-467d-82f3-51f51a2bf4d2" />
+
+### 📦 Gestión de Inventarios
+
+<img width="1869" height="731" alt="image" src="https://github.com/user-attachments/assets/09bd5d6c-af22-44e1-939d-fc8f4c53a2f9" />
+
+### 🚚 Optimización del Transporte
+
+<img width="1870" height="739" alt="image" src="https://github.com/user-attachments/assets/5a946239-1ad4-4e43-a6ba-69c4a38e1610" />
+
+---
+
 ## 📁 Archivos del Repositorio
-* 📊 `Planificación de la Demanda.xlsb` — Modelos de pronóstico, MAPE, WAPE, BIAS.
-* 📦 `Gestión de Inventario.xlsb` — Clasificación ABC-XYZ, Stock de Seguridad, ROP y análisis de sobrestock/quiebres.
-* 🚚 `Gestión de Transporte.xlsb` — Modelo de optimización lineal en Solver para asignación de flujos y capacidades de CDs.
+* 📊 `1-Planificación de la Demanda.xlsb` — Modelos de pronóstico, MAPE, WAPE, BIAS.
+* 📦 `2-Gestión de Inventario.xlsb` — Clasificación ABC-XYZ, Stock de Seguridad, ROP y análisis de sobrestock/quiebres.
+* 🚚 `3-Optimización de Transporte.xlsb` — Modelo de optimización lineal en Solver para asignación de flujos y capacidades de CDs.
 * 📄 `Informe_Ejecutivo_SOP.pdf` — Reporte ejecutivo consolidado para toma de decisiones.
 
 ---
