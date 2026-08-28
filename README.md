@@ -1,5 +1,5 @@
-#⚙️Caso de Estudio: Optimización Integrada de la Cadena de Suministro (S&OP)
-**Supply Chain Analytics | Demand Planning • Inventory Management • Transportation Network Optimization**
+# ⚙️Caso de Estudio: Optimización Integrada de la Cadena de Suministro (S&OP)
+ **Supply Chain Analytics | Demand Planning • Inventory Management • Transportation Network Optimization**
 
 Caso de estudio desarrollado en Microsoft Excel y Solver para analizar de forma integrada tres procesos clave de Supply Chain bajo un enfoque de Sales & Operations Planning (S&OP).
 
