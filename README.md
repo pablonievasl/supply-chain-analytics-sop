@@ -44,6 +44,32 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 
 ---
 
+## 📐 Metodología
+
+### 📈 Planificación de la Demanda
+- Media Móvil Simple (MMS)
+- Media Móvil Ponderada (MMP)
+- Suavizamiento Exponencial Simple (SES)
+- Suavizamiento Exponencial Doble (Holt)
+- Regresión Lineal
+- Suavizamiento Exponencial Triple (Holt-Winters)
+- Evaluación mediante MAPE, WAPE, MAD, RMSE y BIAS
+
+### 📦 Gestión de Inventarios
+- Clasificación ABC-XYZ
+- EOQ
+- Stock de Seguridad
+- Punto de Reorden (ROP)
+- Cobertura y rotación
+- Análisis de exceso de inventario y riesgo de quiebre
+
+### 🚚 Optimización del Transporte
+- Modelo de transporte/transbordo
+- Restricciones de capacidad y distancia
+- Optimización mediante Solver
+
+---
+
 ## 🛠️ Herramientas Utilizadas
 * **Microsoft Excel:** Tablas dinámicas, fórmulas avanzadas, modelos binarios (`.xlsb`).
 * **Solver:** Optimización lineal aplicada a redes de transporte.
