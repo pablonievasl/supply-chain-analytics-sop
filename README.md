@@ -24,11 +24,11 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 
 ### 📈 Planificación de la Demanda
 
-<img width="1870" height="729" alt="image" src="https://github.com/user-attachments/assets/64544071-5344-467d-82f3-51f51a2bf4d2" />
+<img width="1870" height="728" alt="image" src="https://github.com/user-attachments/assets/7c43e6ae-a758-4ee9-97ad-869283db2689" />
 
 ### 📦 Gestión de Inventarios
 
-<img width="1869" height="731" alt="image" src="https://github.com/user-attachments/assets/09bd5d6c-af22-44e1-939d-fc8f4c53a2f9" />
+<img width="1870" height="735" alt="image" src="https://github.com/user-attachments/assets/c0c9af97-e05d-4bed-a03c-91841ee223ad" />
 
 ### 🚚 Optimización del Transporte
 
