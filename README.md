@@ -12,9 +12,9 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 
 ## 🔑 Resultados Clave
 * **1.200 SKUs Analizados:** Evaluación de modelos MMS, MMP, SES, Holt, Regresión Lineal y Holt-Winters.
-* **WAPE Global:** `2,23%` (Alta precisión en productos de mayor impacto financiero).
-* **Sesgo de Demanda:** `70,33%` de los SKUs presentan subestimación sistemática.
-* **Inventario Crítico:** `60 SKUs` bajo Punto de Reorden (ROP) y `$97.547,43` en exceso de stock recuperable.
+* **WAPE Global:** `25,2%` (Alta precisión en productos de mayor impacto financiero).
+* **Sesgo de Demanda:** `87,4%` de los SKUs presentan subestimación sistemática.
+* **Inventario Crítico:** `218 SKUs` bajo Punto de Reorden (ROP) y `$97.547,43` en exceso de stock recuperable.
 * **Rotación y Cobertura:** Rotación anual de `16x` y cobertura promedio de `15 días`.
 * **Red Logística Integrada:** Optimización de `537 pallets` mediante Solver con un costo total de `$39.026,96` y `75%` de nivel de servicio.
 
