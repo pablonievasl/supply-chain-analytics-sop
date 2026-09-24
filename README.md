@@ -22,6 +22,13 @@ Evaluar el desempeño integral del proceso de S&OP mediante la integración de p
 
 ## 📊 Dashboards
 
+## 📊 Tablero Interactivo en Power BI
+Podés interactuar con el reporte completo en vivo (filtros, desglose y navegación entre páginas) a través del siguiente enlace:
+
+👉 **[Ver Dashboard Interactivo de Planificación de la Demanda](https://app.powerbi.com/view?r=eyJrIjoiNDU3M2JkOTEtOGZmYS00ZjYxLTk3NDEtZDI1YzY1YjMzM2ViIiwidCI6ImY2OWVlZjgwLTYyMjItNDRhMC1hZmQ4LTEwNThhYzg5ZWJhMSIsImMiOjR9)**
+👉 **[Ver Dashboard Interactivo de Gestión de Inventarios](https://app.powerbi.com/view?r=eyJrIjoiNGMzZTRjMTUtNjI2Ny00ZmNhLThiNWYtYWI3NjM2YzdmMTczIiwidCI6ImY2OWVlZjgwLTYyMjItNDRhMC1hZmQ4LTEwNThhYzg5ZWJhMSIsImMiOjR9)**
+👉 **[Ver Dashboard Interactivo de Optimización de Transporte](https://app.powerbi.com/view?r=eyJrIjoiY2ZiNTkzMjQtM2NlMi00YTZmLWFhY2ItMGI2MjJjOTdkMDBiIiwidCI6ImY2OWVlZjgwLTYyMjItNDRhMC1hZmQ4LTEwNThhYzg5ZWJhMSIsImMiOjR9)**
+
 ### 📈 Planificación de la Demanda
 
 <img width="1870" height="728" alt="image" src="https://github.com/user-attachments/assets/7c43e6ae-a758-4ee9-97ad-869283db2689" />
