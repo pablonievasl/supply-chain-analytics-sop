@@ -29,6 +29,8 @@ Podés interactuar con el reporte completo en vivo (filtros, desglose y navegaci
 👉 **[Ver Dashboard Interactivo de Gestión de Inventarios](https://app.powerbi.com/view?r=eyJrIjoiNGMzZTRjMTUtNjI2Ny00ZmNhLThiNWYtYWI3NjM2YzdmMTczIiwidCI6ImY2OWVlZjgwLTYyMjItNDRhMC1hZmQ4LTEwNThhYzg5ZWJhMSIsImMiOjR9)**
 👉 **[Ver Dashboard Interactivo de Optimización de Transporte](https://app.powerbi.com/view?r=eyJrIjoiY2ZiNTkzMjQtM2NlMi00YTZmLWFhY2ItMGI2MjJjOTdkMDBiIiwidCI6ImY2OWVlZjgwLTYyMjItNDRhMC1hZmQ4LTEwNThhYzg5ZWJhMSIsImMiOjR9)**
 
+## 📊 Tablero en Excel
+
 ### 📈 Planificación de la Demanda
 
 <img width="1870" height="728" alt="image" src="https://github.com/user-attachments/assets/7c43e6ae-a758-4ee9-97ad-869283db2689" />
